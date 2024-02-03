@@ -50,21 +50,21 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ Wolfie-ʙᴏᴛ'
+global.botname = 'ᴛʜᴇ 𝙒𝞗𝙇𝙁𝞘𝞢-ʙᴏᴛ'
 global.premium = 'true'
-global.packname = 'WOLFIE┃ᴮᴼᵀ' 
-global.author = '@wolfie' 
-global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
+global.packname = '𝚆𝚘𝚕𝚏𝚒𝚎𝚆𝚃𝙵┃ᴮᴼᵀ' 
+global.author = '@𝙒𝞗𝙇𝙁𝞘𝞢-𝞛𝘿' 
+global.menuvid = 'https://telegra.ph/file/96053700d8aede3fc3eb9.jpg'
+global.igfg =  
+global.dygp = 
+global.fgsc = 'https://github.com/WolfieWTF/GURU-BOT'
+global.fgyt = 
+global.fgpyp = 
+global.fglog = 'https://telegra.ph/file/e7136feb5652382653ef9.jpg' 
 global.thumb = fs.readFileSync('./Assets/wolfie.jpg')
 
 
-global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _𝙒𝞗𝙇𝙁𝞘𝞢-𝞛𝘿 Charging..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
